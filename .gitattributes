@@ -1,0 +1,6 @@
+experiences/* filter=lfs diff=lfs merge=lfs -text
+experience/* filter=lfs diff=lfs merge=lfs -text
+assets/* filter=lfs diff=lfs merge=lfs -text
+assets/videos/braintumor.mp4 filter=lfs diff=lfs merge=lfs -text
+assets/videos/code[[:space:]]delicious.mp4 filter=lfs diff=lfs merge=lfs -text
+assets/videos/codedelicious.mp4 filter=lfs diff=lfs merge=lfs -text
