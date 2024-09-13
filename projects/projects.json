@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Brain Tumor Detection",
+    "desc": "An efficient brain tumor detection method, which can detect tumor and locate it in the brain MRI images.",
+    "image": "braintumor",
+    "links": {
+      "view": "\\assets\\videos\\braintumor.mp4",
+      "code": "https://github.com/Pradeepking19/brain_tumor_detection_README_file.git"
+    }
+  },
+  {
+    "name": "Vehicle Detection",
+    "desc": "Advancing vehicle detection with adaptive fusion and cross-modal indexing of RGB-T images",
+    "image": "vdimg",
+    "links": {
+      "view": "\\assets\\videos\\ETPL_RV_Review of Fault Diagnosis and Fault Tolerant Control Methods Multilevel_01.08.2024.mp4",
+      "code": "https://github.com/Pradeepking19/vehicle_detection_README_file.git"
+    }
+  },
+  {
+    "name": "Code delicious",
+    "desc": "This Recipe Recommendation System represents a valuable solution for home cooks and food enthusiasts.",
+    "image": "cdimg",
+    "links": {
+      "view": "\\assets\\videos\\codedelicious.mp4",
+      "code": "https://github.com/DharaniIlango/CodeDelicious-Where_Bytes_Become_Bites.git"
+    }
+  }
+]
